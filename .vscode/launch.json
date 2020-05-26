@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<api-container-example-java>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.api.container.example.apicontainerexamplejava.DemoApplication",
+            "projectName": "api-container-example-java",
+            "args": ""
+        }
+    ]
+}
